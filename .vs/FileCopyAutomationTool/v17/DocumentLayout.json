@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|c:\\users\\mj\\source\\repos\\filecopyautomationtool\\filecopyautomationtool\\filecopyautomationtool.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|solutionrelative:filecopyautomationtool\\filecopyautomationtool.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|c:\\users\\mj\\source\\repos\\filecopyautomationtool\\filecopyautomationtool\\views\\filecopy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|solutionrelative:filecopyautomationtool\\views\\filecopy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|c:\\users\\mj\\source\\repos\\filecopyautomationtool\\filecopyautomationtool\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|solutionrelative:filecopyautomationtool\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|c:\\users\\mj\\source\\repos\\filecopyautomationtool\\filecopyautomationtool\\controllers\\filecopycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|solutionrelative:filecopyautomationtool\\controllers\\filecopycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|c:\\users\\mj\\source\\repos\\filecopyautomationtool\\filecopyautomationtool\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|solutionrelative:filecopyautomationtool\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|c:\\users\\mj\\source\\repos\\filecopyautomationtool\\filecopyautomationtool\\models\\filecopymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|solutionrelative:filecopyautomationtool\\models\\filecopymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|c:\\users\\mj\\source\\repos\\filecopyautomationtool\\filecopyautomationtool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|solutionrelative:filecopyautomationtool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|c:\\users\\mj\\source\\repos\\filecopyautomationtool\\filecopyautomationtool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|solutionrelative:filecopyautomationtool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|c:\\users\\mj\\source\\repos\\filecopyautomationtool\\filecopyautomationtool\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6517126C-BD6B-4158-9834-3036B0F8CD21}|FileCopyAutomationTool\\FileCopyAutomationTool.csproj|solutionrelative:filecopyautomationtool\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileCopyAutomationTool",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\FileCopyAutomationTool.csproj",
+              "RelativeDocumentMoniker": "FileCopyAutomationTool\\FileCopyAutomationTool.csproj",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\FileCopyAutomationTool.csproj",
+              "RelativeToolTip": "FileCopyAutomationTool\\FileCopyAutomationTool.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T12:57:57.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FileCopyAutomationTool\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FileCopyAutomationTool\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:13:04.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FileCopyAutomationTool\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FileCopyAutomationTool\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:12:57.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "FileCopyAutomationTool\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "FileCopyAutomationTool\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-16T10:09:03.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Views\\FileCopy\\Index.cshtml",
+              "RelativeDocumentMoniker": "FileCopyAutomationTool\\Views\\FileCopy\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Views\\FileCopy\\Index.cshtml",
+              "RelativeToolTip": "FileCopyAutomationTool\\Views\\FileCopy\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCsAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T07:36:12.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileCopyController.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Controllers\\FileCopyController.cs",
+              "RelativeDocumentMoniker": "FileCopyAutomationTool\\Controllers\\FileCopyController.cs",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Controllers\\FileCopyController.cs",
+              "RelativeToolTip": "FileCopyAutomationTool\\Controllers\\FileCopyController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:11:01.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileCopyModel.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Models\\FileCopyModel.cs",
+              "RelativeDocumentMoniker": "FileCopyAutomationTool\\Models\\FileCopyModel.cs",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Models\\FileCopyModel.cs",
+              "RelativeToolTip": "FileCopyAutomationTool\\Models\\FileCopyModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:09:21.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FileCopyAutomationTool\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FileCopyAutomationTool\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T06:51:51.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FileCopyAutomationTool\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\FileCopyAutomationTool\\FileCopyAutomationTool\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FileCopyAutomationTool\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:52:05.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
