@@ -1,0 +1,56 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@* @model FileCopyAutomationTool.Models.FileCopyModel  *@
+@model FileCopyModel 
+
+@{
+    ViewData["Title"] = "Copy Files";
+}
+
+<h2>Copy and Paste Files</h2>
+
+@* <form method="post" asp-action="CopyFiles"> *@
+@*     <div> *@
+@*         <label for="SourcePath">Source Path:</label> *@
+@*         <input type="text" id="SourcePath" name="SourcePath" value="@Model.SourcePath" style="width: 300px;" /><br /><br /> *@
+
+@*         <label for="DestinationPath">Destination Path:</label> *@
+@*         <input type="text" id="DestinationPath" name="DestinationPath" value="@Model.DestinationPath" style="width: 300px;" /><br /><br /> *@
+
+@*         <button type="submit">Copy Files</button> *@
+@*     </div> *@
+@* </form> *@
+<script src="~/js/site.js"></script>
+<form id="fileCopyForm" method="post" asp-action="CopyFiles">
+    <div>
+        <label for="SourcePath">Source Folder:</label>
+        @* <input type="file" id="SourcePath" name="SourcePath" webkitdirectory directory style="width: 300px;" /> *@
+        @* <br /><br /> *@
+        <input type="text" id="SourcePath" name="SourcePath" placeholder="Select Source Folder" style="width: 300px;" />
+        <button type="button" id="selectSource">Browse</button>
+        <input type="file" id="sourcePicker" webkitdirectory style="display: none;">
+        <br /><br />
+
+
+        <label for="DestinationPath">Destination Folder:</label>
+        @* <input type="file" id="DestinationFolder" name="DestinationFolder" webkitdirectory directory style="width: 300px;" /> *@
+        @* <br /><br /> *@
+        <input type="text" id="DestinationPath" name="DestinationPath" placeholder="Select Destination Folder" style="width: 300px;" /> 
+        <button type="button" id="selectDestination">Browse</button>
+        <input type="file" id="destinationPicker" webkitdirectory style="display: none;">
+        <br /><br />
+        @* http://localhost:5224/FileCopy?source=C:\Users\MJ\Desktop\Source&destination=C:\Users\MJ\Desktop\Destination *@
+
+        <button type="submit">Copy Files</button>
+    </div>
+</form>
+
+
+<br />
+
+@* @if (!string.IsNullOrEmpty(Model.ResultMessage))
+{ *@
+    <p style="color: green;">@Model.ResultMessage</p>
+@* } *@
